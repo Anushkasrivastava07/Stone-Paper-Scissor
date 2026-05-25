@@ -20,7 +20,7 @@ h1 {
 .choice:hover {
     opacity: 0.8;
     cursor: pointer;
-    background-color: rgb(124, 123, 121);
+    background-color: rgb(77, 76, 75);
 }
 img {
     height: 150px;
